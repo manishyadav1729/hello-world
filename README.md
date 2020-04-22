@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hello mates!
+
+Manish here trying to figure out how github works.
